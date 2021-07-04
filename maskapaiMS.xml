@@ -1,0 +1,1 @@
+<?xml version='1.0' encoding='UTF-8'?><info><flight><ID>1</ID><dari>Seoul</dari><ke>Tokyo</ke><depart>12:00:00</depart><arrive>14:59:59</arrive><price>700000</price></flight><flight><ID>2</ID><dari>Bali</dari><ke>Hawaii</ke><depart>12:12:12</depart><arrive>23:59:59</arrive><price>3000000</price></flight></info>
